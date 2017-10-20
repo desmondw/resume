@@ -1,12 +1,12 @@
 # Desmond Weindorf
-Software Engineer | San Francisco, CA
+Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmondw
 
 ## Experience
 
 #### Software Engineer (HelloSign), 2015 – 2017
-* Maintained the API, SDKs, and integrations as the primary dev
-* Managed HackerOne and security as interim Security Engineer
-* Worked directly with API customers to resolve reported issues
+* Developed for the API, SDKs, and integrations as primary focus
+* Managed HackerOne reports and security audits as the Security Engineer
+* Worked directly with clients and developers on API features and issues
 
 #### Owner (Weindorf Technologies), 2014
 * Designed websites and tailored services to meet client needs
@@ -21,18 +21,25 @@ Software Engineer | San Francisco, CA
 ## Projects
 
 #### OAuth 2.0 for HelloSign
-Built out OAuth implementation to support all API endpoints and
-allow for various billing methods. Took the lead to surface and
-create solutions around multiple legal and security concerns.
-Designed to support HelloSign’s use in marketplace apps.
+Implemented OAuth to support all API endpoints and allow for various billing methods. Took the lead to surface and create solutions around multiple legal and security concerns. Designed to support HelloSign’s use in CRM marketplace apps.
 
 #### Online Classifieds for Hiring Heroes List
-Sole developer on a custom classifieds website built from the
-ground up, including relational database architecture. The app
-features user registration, post management and preview, an
-admin panel, and a payment system. Built on Laravel & Foundation.
+Sole developer on a bespoke classifieds website built from the ground up. The app features user registration, post management, previewing (a la Craigslist), an admin panel, and payment system. Built on Laravel & Foundation.
 
 
 ## Education
 
-##### Computer Science (Kettering University), 2007 – 2009
+__Computer Science (Kettering University), 2007 – 2009__
+
+
+## Technologies
+
+__Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#, VB
+
+__Frameworks & Libraries__ — Laravel, Symfony, ReactJS, NodeJS, jQuery, D3, OpenGL, WordPress
+
+__Styling__ — Bootstrap, Foundation, HTML5, CSS3, Sass, Haml
+
+__Tools__ — git, npm, bash, vagrant, webpack, browserify, bower, gulp, grunt, SVN
+
+__Other__ — AWS / EC2, MySQL, AJAX, Agile, TDD, MVC, OOP, REST
