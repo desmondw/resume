@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My professional resume",
+  "main": "build.js",
+  "dependencies": {
+    "markdown-pdf": "^8.0.0",
+    "remove-markdown": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmondw/resume.git"
+  },
+  "author": "Desmond Weindorf",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/desmondw/resume/issues"
+  },
+  "homepage": "https://github.com/desmondw/resume#readme"
+}
