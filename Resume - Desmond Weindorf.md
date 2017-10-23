@@ -35,7 +35,7 @@ __Computer Science (Kettering University), 2007 – 2009__
 
 ## Technologies
 
-__Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#, VB
+__Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#, VB.NET
 
 __Frameworks & Libraries__ — Node.js, React.js, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
 
