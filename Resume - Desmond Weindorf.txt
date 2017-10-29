@@ -29,11 +29,11 @@ Education
 
 Computer Science (Kettering University), 2007 – 2009
 
-Technologies
+Skills
 
-Languages — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#, VB.NET
+Languages — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C
 
-Frameworks & Libraries — Node.js, React.js, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
+Frameworks & Libraries — Node, React, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
 
 Styling — Bootstrap, Foundation, HTML5, CSS3, Sass, Haml
 

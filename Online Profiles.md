@@ -10,4 +10,5 @@
 #### Media
 * [Twitter](https://twitter.com/DesmondWeindorf)
 * [LinkedIn](https://www.linkedin.com/in/desmondweindorf)
+* [AngelList](https://angel.co/desmondweindorf)
 * [StackOverflow](https://stackoverflow.com/users/797123/desmond-weindorf)

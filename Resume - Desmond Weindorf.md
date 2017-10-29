@@ -33,11 +33,11 @@ Sole developer on a bespoke classifieds website built from the ground up. The ap
 __Computer Science (Kettering University), 2007 – 2009__
 
 
-## Technologies
+## Skills
 
-__Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#, VB.NET
+__Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#
 
-__Frameworks & Libraries__ — Node.js, React.js, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
+__Frameworks & Libraries__ — Node, React, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
 
 __Styling__ — Bootstrap, Foundation, HTML5, CSS3, Sass, Haml
 
