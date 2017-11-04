@@ -4,19 +4,21 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmond
 
 ## Experience
 
-#### Software Engineer (HelloSign), 2015 – 2017
-* Developed for the API, SDKs, and integrations as primary focus
-* Managed HackerOne reports and security audits as the Security Engineer
-* Worked directly with clients and developers on API features and issues
+#### Software Engineer (HelloSign), Jan 2015 – Jun 2017
+* Developed the external API, SDKs, and integrations as primary contact
+* Managed HackerOne reports and security audits as the first Security Engineer
+* Helped with creation of QA team and subsequent dev QA tasks
+* Advocated for standardization in developer workflow and code syntax
+* Interacted directly with clients, end-users, and vendors while developing features
 
-#### Owner (Weindorf Technologies), 2014
-* Designed websites and tailored services to meet client needs
+#### Owner (Weindorf Technologies), Apr 2014 - Sep 2014
+* Designed websites and social media presence for clients
 * Managed all business operations and client communications
 
-#### Web Developer (Advantage Computer Services), 2013 – 2014
-* Designed websites and web applications as a full stack developer
-* Conceived various marketable services and implemented them
-* Led team improvement with procedures and quality standards
+#### Web Developer (Advantage Computer Services), Jan 2013 – Apr 2014
+* Designed and developed marketing websites and web applications from scratch
+* Conceived and implemented a variety of marketable web services
+* Led dev team improvement with a common workflow, quality standards, and QA
 
 
 ## Projects
@@ -39,7 +41,7 @@ __Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#
 
 __Frameworks & Libraries__ — Node, React, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
 
-__Styling__ — Bootstrap, Foundation, HTML5, CSS3, Sass, Haml
+__Styling__ — Bootstrap, Foundation, HTML5, CSS3, Sass, Haml, Pug/Jade
 
 __Tools__ — Unix CLI, git, npm, bash, vagrant, webpack, browserify, bower, gulp, grunt, SVN
 
