@@ -8,6 +8,8 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmond
 * Developed the external API, SDKs, and integrations as primary contact
 * Managed HackerOne reports and security audits as the first Security Engineer
 * Helped with creation of QA team and subsequent dev QA tasks
+* Advocated for standardization in developer workflow and code syntax
+* Interacted directly with clients, end-users, and vendors while developing features
 
 #### Owner (Weindorf Technologies), Apr 2014 - Sep 2014
 * Designed websites and social media presence for clients
