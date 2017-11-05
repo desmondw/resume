@@ -5,7 +5,8 @@
   "main": "build.js",
   "dependencies": {
     "markdown-pdf": "^8.0.0",
-    "remove-markdown": "^0.2.2"
+    "remove-markdown": "^0.2.2",
+    "sync": "^0.2.5"
   },
   "devDependencies": {},
   "scripts": {
