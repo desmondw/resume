@@ -8,7 +8,9 @@
     "remove-markdown": "^0.2.2",
     "sync": "^0.2.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "through2": "^2.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -9,7 +9,7 @@ Experience
 Software Engineer (HelloSign), Jan 2015 – Jun 2017
 - Developed the external API, SDKs, and integrations as primary contact
 - Managed HackerOne reports and security audits as the first Security Engineer
-- Helped with creation of QA team and subsequent dev QA tasks
+- Assisted with creation of QA team and subsequent dev QA tasks
 - Advocated for standardization in developer workflow and code syntax
 - Interacted directly with clients, end-users, and vendors while developing features
 
