@@ -15,7 +15,7 @@ sync(function(){
 
   // pdf
   var pdfOptions = {
-    paperBorder: "0.8cm"
+    // paperBorder: "0.8cm"
   }
   resume.pipe(markdownPdf(pdfOptions)).pipe(pdf)
 
