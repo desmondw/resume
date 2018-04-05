@@ -6,6 +6,7 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmond
 ## Experience
 
 #### Senior Software Engineer (Darby Smart), Dec 2017 – Present
+- Focused on SEO efforts, leading to higher viewership through organic growth
 
 #### Software Engineer (HelloSign), Jan 2015 – Jun 2017
 - Developed the external API, SDKs, and integrations as primary contact
@@ -26,17 +27,17 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmond
 
 ## Education
 
-__Computer Science (Kettering University), 2007 – 2009__
+__Computer Science (Kettering University)__
 
 
 ## Skills
 
-__Languages__ — JavaScript, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#
+__Languages__ — JavaScript, Ruby, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#
 
-__Frameworks & Libraries__ — Node, React, jQuery, D3, Laravel, Symfony, WordPress, OpenGL
+__Frameworks & Libraries__ — React / Redux, Elasticsearch, Node, jQuery, Laravel, Symfony
 
-__Styling__ — Bootstrap, Foundation, HTML5, CSS3, Sass, Haml, Pug/Jade
+__Styling__ — HTML5, CSS3, Sass, Less, Bootstrap, Foundation
 
-__Tools__ — Unix CLI, git, npm, bash, vagrant, webpack, browserify, bower, gulp, grunt, SVN
+__Tools__ — Unix CLI, git, npm, bash, webpack, browserify, gulp, bower, docker, vagrant
 
-__Other__ — AWS / EC2, MySQL, AJAX, Agile, TDD, MVC, OOP, REST
+__Other__ — AWS / EC2, Heroku, Postgres, MySQL, AJAX, Agile, TDD, MVC, OOP, REST
