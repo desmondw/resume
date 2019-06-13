@@ -5,8 +5,12 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmond
 
 ## Experience
 
-#### Senior Software Engineer (Darby Smart), Dec 2017 – Present
-- Focused on SEO efforts, leading to higher viewership through organic growth
+#### Senior Software Engineer (Grove Collaborative), Apr 2019 – Present
+- Quickly released and iterated over new growth features on AOV-focused pod
+
+#### Senior Software Engineer (Darby Smart), Dec 2017 – Apr 2019
+- Designed and developed the customer-facing website for Shero Science
+- Spearheaded acquisition of influencers and customers across multiple channels
 
 #### Software Engineer (HelloSign), Jan 2015 – Jun 2017
 - Developed the external API, SDKs, and integrations as primary contact
@@ -32,12 +36,6 @@ __Computer Science (Kettering University)__
 
 ## Skills
 
-__Languages__ — JavaScript, Ruby, PHP, Python, Java, SQL, ActionScript, Lua, C++, C#
+__Languages__ — Javascript, Python, Ruby, Rust, PHP
 
-__Frameworks & Libraries__ — React / Redux, Elasticsearch, Node, jQuery, Laravel, Symfony
-
-__Styling__ — HTML5, CSS3, Sass, Less, Bootstrap, Foundation
-
-__Tools__ — Unix CLI, git, npm, bash, webpack, browserify, gulp, bower, docker, vagrant
-
-__Other__ — AWS / EC2, Heroku, Postgres, MySQL, AJAX, Agile, TDD, MVC, OOP, REST
+__Frameworks__ — Vue, React, Django, Rails, Actix, Laravel, Symfony
