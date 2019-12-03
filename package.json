@@ -4,7 +4,7 @@
   "description": "My professional resume",
   "main": "build.js",
   "dependencies": {
-    "markdown-pdf": "^8.1.0",
+    "markdown-pdf": "^10.0.0",
     "remove-markdown": "^0.2.2",
     "sync": "^0.2.5"
   },

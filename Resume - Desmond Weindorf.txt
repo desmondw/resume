@@ -7,6 +7,8 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmond
 Experience
 
 Senior Software Engineer (Grove Collaborative), Apr 2019 – Present
+- Lead and owned launch of holiday presale after implementing new design
+- Built out new sales channel and owned its evolution over numerous A/B tests
 - Quickly released and iterated over new growth features on AOV-focused pod
 
 Senior Software Engineer (Darby Smart), Dec 2017 – Apr 2019

@@ -1,12 +1,12 @@
-var fs = require("fs");
-var through2 = require('through2');
-var markdownPdf = require("markdown-pdf");
-var sync = require("sync");
+const fs = require("fs");
+const through2 = require('through2');
+const markdownPdf = require("markdown-pdf");
+const sync = require("sync");
 
-var resume = fs.createReadStream("README.md");
-var pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
-var txt = fs.createWriteStream("Resume - Desmond Weindorf.txt");
-var md = fs.createWriteStream("Resume - Desmond Weindorf.md");
+const resume = fs.createReadStream("README.md");
+const pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
+const txt = fs.createWriteStream("Resume - Desmond Weindorf.txt");
+const md = fs.createWriteStream("Resume - Desmond Weindorf.md");
 
 process.stdout.write('Building other file types...\n');
 
