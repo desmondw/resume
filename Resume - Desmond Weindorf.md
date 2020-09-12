@@ -5,7 +5,7 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/
 
 ## Experience
 
-#### Senior Software Engineer (Grove Collaborative), Apr 2019 – Present
+#### Senior Software Engineer (Grove Collaborative), Apr 2019 – Mar 2020
 - Mentored multiple engineers and lead the team on multiple projects
 - Lead and owned launch of holiday presale after implementing new design
 - Built out new sales channel and owned its evolution over numerous A/B tests
