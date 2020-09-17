@@ -44,4 +44,4 @@ Skills
 
 Languages — Javascript, Python, Ruby, Rust, PHP
 
-Frameworks — React, Vue, Django, Rails, Laravel, Symfony
+Frameworks — React, Vue, Django, Rails, Actix, Laravel, Symfony

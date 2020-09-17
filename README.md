@@ -41,4 +41,4 @@ __Computer Science (Kettering University)__
 
 __Languages__ — Javascript, Python, Ruby, Rust, PHP
 
-__Frameworks__ — React, Vue, Django, Rails, Laravel, Symfony
+__Frameworks__ — React, Vue, Django, Rails, Actix, Laravel, Symfony
