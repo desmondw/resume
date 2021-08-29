@@ -4,7 +4,8 @@ const markdownPdf = require("markdown-pdf");
 const sync = require("sync");
 
 const resume = fs.createReadStream("README.md");
-const pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
+// markdown-pdf seems to have a faulty dependency in 'sync' which has a problem in dependency 'fiber'
+// const pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
 const txt = fs.createWriteStream("Resume - Desmond Weindorf.txt");
 const md = fs.createWriteStream("Resume - Desmond Weindorf.md");
 
@@ -12,7 +13,7 @@ process.stdout.write('Building other file types...\n');
 
 sync(function(){
   // pdf
-  resume.pipe(markdownPdf()).pipe(pdf);
+  // resume.pipe(markdownPdf()).pipe(pdf);
 
   // txt
   resume.pipe(through2(function(chunk, _, next) {

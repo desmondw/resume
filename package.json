@@ -4,12 +4,10 @@
   "description": "My professional resume",
   "main": "build.js",
   "dependencies": {
-    "markdown-pdf": "^10.0.0",
-    "remove-markdown": "^0.2.2",
-    "sync": "^0.2.5"
-  },
-  "devDependencies": {
-    "through2": "^2.0.3"
+    "markdown-pdf": "10.0.0",
+    "remove-markdown": "0.2.2",
+    "sync": "0.2.5",
+    "through2": "2.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
