@@ -6,6 +6,9 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/
 ## Experience
 
 #### Senior Software Engineer (Urbint), Jul 2021 – current
+- Developed v2 of primary damage prevention application
+- Mapped and rendered clients' GIS data with configurable interface
+- Launched and migrated multiple clients with bespoke requirements
 
 #### Senior Software Engineer (Grove Collaborative), Apr 2019 – Mar 2020
 - Mentored multiple engineers and led the growth team on multiple projects

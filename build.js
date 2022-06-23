@@ -1,11 +1,10 @@
 const fs = require("fs");
 const through2 = require('through2');
-const markdownPdf = require("markdown-pdf");
+const markdownpdf = require("markdown-pdf");
 const sync = require("sync");
 
 const resume = fs.createReadStream("README.md");
-// markdown-pdf seems to have a faulty dependency in 'sync' which has a problem in dependency 'fiber'
-// const pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
+const pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
 const txt = fs.createWriteStream("Resume - Desmond Weindorf.txt");
 const md = fs.createWriteStream("Resume - Desmond Weindorf.md");
 
@@ -13,7 +12,11 @@ process.stdout.write('Building other file types...\n');
 
 sync(function(){
   // pdf
-  // resume.pipe(markdownPdf()).pipe(pdf);
+  let pdfOptions = {
+    phantomPath: '/usr/local/bin/phantomjs',
+    paperBorder: '1.355cm',
+  }
+  resume.pipe(markdownpdf(pdfOptions)).pipe(pdf);
 
   // txt
   resume.pipe(through2(function(chunk, _, next) {
