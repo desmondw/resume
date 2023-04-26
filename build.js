@@ -8,17 +8,19 @@ const pdf = fs.createWriteStream("Resume - Desmond Weindorf.pdf");
 const txt = fs.createWriteStream("Resume - Desmond Weindorf.txt");
 const md = fs.createWriteStream("Resume - Desmond Weindorf.md");
 
-process.stdout.write('Building other file types...\n');
+process.stdout.write('Building file types...\n');
 
 sync(function(){
   // pdf
+  process.stdout.write('\t.pdf\n');
   let pdfOptions = {
-    phantomPath: '/usr/local/bin/phantomjs',
+    phantomPath: './node_modules/phantomjs-prebuilt/lib/phantom/bin/phantomjs',
     paperBorder: '1.355cm',
   }
   resume.pipe(markdownpdf(pdfOptions)).pipe(pdf);
 
   // txt
+  process.stdout.write('\t.txt\n');
   resume.pipe(through2(function(chunk, _, next) {
     chunk = chunk.toString();
 
@@ -35,5 +37,10 @@ sync(function(){
   })).pipe(txt);
 
   // md
+  process.stdout.write('\t.md\n');
   resume.pipe(md);
+
+  process.stdout.write('Wrapping up... ');
 });
+
+process.stdout.write('Done!\n');

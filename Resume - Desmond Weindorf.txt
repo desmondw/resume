@@ -6,11 +6,10 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/
 
 Experience
 
-Senior Software Engineer (Urbint), Jul 2021 – current
+Senior Software Engineer (Urbint), Jul 2021 – Feb 2023
 - Developed v2 of primary damage prevention application
 - Launched and migrated multiple clients with bespoke requirements
 - Kickstarted initiatives on architectural and demo site improvements
-- Frequently advised and assisted coworkers as a "go-to person"
 
 Senior Software Engineer (Grove Collaborative, _public_), Apr 2019 – Mar 2020
 - Mentored multiple engineers and led the growth team on multiple projects
@@ -19,8 +18,9 @@ Senior Software Engineer (Grove Collaborative, _public_), Apr 2019 – Mar 2020
 - Quickly released and iterated over new growth features on AOV-focused pod
 
 Senior Software Engineer (Darby Smart, _acquired_), Dec 2017 – Apr 2019
-- Designed and developed the customer-facing website for Shero Science
+- Designed and developed the customer-facing website in one week after pivot
 - Led acquisition of influencers and customers across multiple channels
+- Implented various growth experiments on iOS app
 
 Software Engineer (HelloSign, _acquired_), Jan 2015 – Jun 2017
 - Developed the external API, SDKs, and integrations as primary contact
@@ -44,6 +44,6 @@ Computer Science (Kettering University)
 
 Skills
 
-Languages — Javascript, Python, Ruby, Rust, PHP, and more
+Languages — Javascript, Python, Ruby, Rust, and more
 
-Frameworks — React, Vue, Django, Rails, Laravel, Symfony, and more
+Frameworks — React, Vue, Django, Rails, and more

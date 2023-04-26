@@ -4,13 +4,13 @@
   "description": "My professional resume",
   "main": "build.js",
   "dependencies": {
-    "markdown-pdf": "10.0.0",
-    "remove-markdown": "0.5.0",
+    "markdown-pdf": "^11.0.0",
+    "phantomjs-prebuilt": "^2.1.16",
     "sync": "^0.2.5",
     "through2": "4.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "OPENSSL_CONF=/etc/ssl node ./build.js"
   },
   "repository": {
     "type": "git",
