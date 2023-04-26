@@ -19,7 +19,7 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/
 #### Senior Software Engineer (Darby Smart, _acquired_), Dec 2017 – Apr 2019
 - Designed and developed the customer-facing website in one week after pivot
 - Led acquisition of influencers and customers across multiple channels
-- Implented various growth experiments on iOS app
+- Implemented various growth experiments on iOS app
 
 #### Software Engineer (HelloSign, _acquired_), Jan 2015 – Jun 2017
 - Developed the external API, SDKs, and integrations as primary contact
