@@ -1,6 +1,6 @@
 # Desmond Weindorf
 
-Senior Software Engineer | San Francisco, CA | resume@desmondw.com | github.com/desmondw
+Senior Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.com
 
 
 ## Experience
