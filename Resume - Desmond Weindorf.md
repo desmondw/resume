@@ -14,8 +14,9 @@ __Frameworks__ — React, Vue, Django, Rails, Laravel, Symfony, etc.
 
 #### Senior Software Engineer (Urbint), Jul 2021 – Feb 2023
 - Developed v2 of primary damage prevention application
-- Launched and migrated multiple clients with bespoke requirements
+- Consulted and created internal tooling as go-to liason for engineering dept.
 - Kickstarted initiatives on architectural and demo site improvements
+- Launched and migrated multiple legacy clients with bespoke requirements
 
 #### Senior Software Engineer (Grove Collaborative), Apr 2019 – Mar 2020
 - Mentored multiple engineers and led the growth team on multiple projects
