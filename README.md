@@ -1,6 +1,13 @@
 # Desmond Weindorf
 
-Senior Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.com
+Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.com
+
+
+## Skills
+
+__Languages__ — JavaScript, TypeScript, Python, Ruby, Rust, PHP, etc.
+
+__Frameworks__ — React, Vue, Django, Rails, Laravel, Symfony, etc.
 
 
 ## Experience
@@ -10,18 +17,18 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.co
 - Launched and migrated multiple clients with bespoke requirements
 - Kickstarted initiatives on architectural and demo site improvements
 
-#### Senior Software Engineer (Grove Collaborative, _public_), Apr 2019 – Mar 2020
+#### Senior Software Engineer (Grove Collaborative), Apr 2019 – Mar 2020
 - Mentored multiple engineers and led the growth team on multiple projects
 - Led and owned launch of holiday presale after implementing new design
 - Built out new sales channel and owned its evolution over numerous A/B tests
 - Quickly released and iterated over new growth features on AOV-focused pod
 
-#### Senior Software Engineer (Darby Smart, _acquired_), Dec 2017 – Apr 2019
+#### Senior Software Engineer (Darby Smart), Dec 2017 – Apr 2019
 - Designed and developed the customer-facing website in one week after pivot
 - Led acquisition of influencers and customers across multiple channels
 - Implemented various growth experiments on iOS app
 
-#### Software Engineer (HelloSign, _acquired_), Jan 2015 – Jun 2017
+#### Software Engineer (HelloSign), Jan 2015 – Jun 2017
 - Developed the external API, SDKs, and integrations as primary contact
 - Managed HackerOne reports and security audits as the first Security Engineer
 - Assisted with creation of QA team and subsequent dev QA tasks
@@ -37,10 +44,3 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.co
 ## Education
 
 __Computer Science (Kettering University)__
-
-
-## Skills
-
-__Languages__ — Javascript, Python, Ruby, Rust, and more
-
-__Frameworks__ — React, Vue, Django, Rails, and more
