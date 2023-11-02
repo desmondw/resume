@@ -7,7 +7,9 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.com
 
 __Languages__ — JavaScript, TypeScript, Python, Ruby, Rust, PHP, etc.
 
-__Frameworks__ — React, Django, Kubernetes/k8s, Rails, Vue, Laravel, Symfony, etc.
+__Frameworks__ — React, Django, Rails, Vue, Laravel, Symfony
+
+__Infrastructure__ — AWS, GCP, Kubernetes
 
 
 ## Experience
@@ -44,4 +46,4 @@ __Frameworks__ — React, Django, Kubernetes/k8s, Rails, Vue, Laravel, Symfony, 
 
 ## Education
 
-__Computer Science (Kettering University)__
+__Computer Science__ (Kettering University)

@@ -8,7 +8,9 @@ Skills
 
 Languages — JavaScript, TypeScript, Python, Ruby, Rust, PHP, etc.
 
-Frameworks — React, Django, Kubernetes/k8s, Rails, Vue, Laravel, Symfony, etc.
+Frameworks — React, Django, Rails, Vue, Laravel, Symfony
+
+Infrastructure — AWS, GCP, Kubernetes
 
 -------------
 
