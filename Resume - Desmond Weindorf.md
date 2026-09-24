@@ -7,12 +7,17 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.com
 
 __Languages__ — JavaScript, TypeScript, Python, Ruby, Rust, PHP, etc.
 
-__Frameworks__ — React, Django, Rails, Vue, Laravel, Symfony, D3.js
+__Frameworks__ — React, Django, Rails, Vue, Laravel, Symfony
 
 __Infrastructure__ — AWS, GCP, Kubernetes
 
 
 ## Experience
+
+#### Robot Operator (Physical Intelligence), Jul 2026 – Present
+- Operated a variety of static and mobile robots with differing capabilities across diverse tasks
+- Collected training data through teleoperation of robots performing real-world interactions
+- Supervised evaluations of AI-controlled robotic tasks and provided feedback on model performance
 
 #### Senior Software Engineer (Urbint), Jul 2021 – Feb 2023
 - Developed v2 of primary damage prevention application
