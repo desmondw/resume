@@ -1,0 +1,12 @@
+/* Preserve markdown-pdf's default font size. */
+body {
+  font-size: 0.625em;
+}
+
+h4 {
+  margin-bottom: 0.25em;
+}
+
+h4 + ul {
+  margin-top: 0;
+}

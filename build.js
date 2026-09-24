@@ -16,6 +16,7 @@ sync(function(){
   let pdfOptions = {
     phantomPath: './node_modules/phantomjs-prebuilt/lib/phantom/bin/phantomjs',
     paperBorder: '1.355cm',
+    cssPath: './resume.css',
   }
   resume.pipe(markdownpdf(pdfOptions)).pipe(pdf);
 
