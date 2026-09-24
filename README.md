@@ -6,9 +6,7 @@ Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.com
 ## Skills
 
 __Languages__ — JavaScript, TypeScript, Python, Ruby, Rust, PHP, etc.
-
 __Frameworks__ — React, Django, Rails, Vue, Laravel, Symfony
-
 __Infrastructure__ — AWS, GCP, Kubernetes
 
 
