@@ -21,7 +21,7 @@ __Infrastructure__ — AWS, GCP, Kubernetes
 
 #### Senior Software Engineer (Urbint), Jul 2021 – Feb 2023
 - Developed v2 of primary damage prevention application
-- Consulted and created internal tooling as go-to liason for engineering dept.
+- Consulted and created internal tooling as go-to liaison for engineering dept.
 - Kickstarted initiatives on architectural and demo site improvements
 - Launched and migrated multiple legacy clients with bespoke requirements
 
