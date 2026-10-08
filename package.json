@@ -6,7 +6,6 @@
   "dependencies": {
     "markdown-pdf": "^11.0.0",
     "phantomjs-prebuilt": "^2.1.16",
-    "sync": "^0.2.5",
     "through2": "4.0.2"
   },
   "scripts": {
