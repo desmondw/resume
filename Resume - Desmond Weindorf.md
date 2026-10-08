@@ -13,9 +13,7 @@ __Infrastructure__ — AWS, GCP, Kubernetes
 ## Experience
 
 #### Robot Operator (Physical Intelligence), Jul 2026 – Present
-- Operated a variety of static and mobile robots with differing capabilities across diverse tasks
-- Collected training data through teleoperation of robots performing real-world interactions
-- Supervised evaluations of AI-controlled robotic tasks and provided feedback on model performance
+- Collected training data through robot teleoperation and evaluated AI-controlled task performance
 
 #### Senior Software Engineer (Urbint), Jul 2021 – Feb 2023
 - Developed v2 of primary damage prevention application
