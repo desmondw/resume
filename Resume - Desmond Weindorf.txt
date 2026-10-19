@@ -6,9 +6,6 @@ Senior Software Engineer | San Francisco, CA | resume@desmondw.com | desmondw.co
 
 Experience
 
-Robot Operator (Physical Intelligence), Jul 2026 – Present
-- Collected robot training data via teleoperation and evaluated autonomous task performance
-
 Senior Software Engineer (Urbint), Jul 2021 – Feb 2023
 - Built React and Django features for v2 utility damage prevention, including configurable GIS asset maps
 - Created parallel Kafka ingestion for historical ticket migrations without blocking the live ticket feed
